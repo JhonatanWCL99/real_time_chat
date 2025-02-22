@@ -7,3 +7,23 @@ Este proyecto en Flutter proporciona una aplicación de chat en tiempo real con 
 - Autenticación de usuarios con Firebase Auth (registro, inicio de sesión y cierre de sesión).
 - Mensajería en tiempo real utilizando Firestore.
 - Interfaz amigable para gestionar contactos y conversaciones de chat.
+
+## Pasos para ejecutar el proyecto:
+
+1. **Clonar el repositorio:**
+
+   Clona este repositorio en tu máquina local:
+
+   ```bash
+   git clone https://github.com/JhonatanWCL99/real-time-chat.git
+   cd real-time-chat
+
+2. **Instalar dependencias:**
+
+   ```bash
+   flutter pub get
+
+3. **Ejecutar el proyecto:**
+
+   ```bash
+   flutter run
