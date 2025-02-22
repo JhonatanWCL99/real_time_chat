@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "real-time-chat-26f26",
+          "appId": "1:505943845242:android:958f2e43efd8eca4130ec3",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "real-time-chat-26f26",
+          "configurations": {
+            "android": "1:505943845242:android:958f2e43efd8eca4130ec3",
+            "ios": "1:505943845242:ios:a56a4caf6e759210130ec3",
+            "macos": "1:505943845242:ios:a56a4caf6e759210130ec3",
+            "web": "1:505943845242:web:a550b37bac44a22e130ec3",
+            "windows": "1:505943845242:web:2f9ab30997bc3c9e130ec3"
+          }
+        }
+      }
+    }
+  }
+}
