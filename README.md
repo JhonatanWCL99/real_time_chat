@@ -1,16 +1,9 @@
-# real_time_chat
+# Aplicación de Chat en Tiempo Real con Firebase Auth y Firestore
 
-A new Flutter project.
+Este proyecto en Flutter proporciona una aplicación de chat en tiempo real con autenticación de usuarios y mensajería basada en la nube. Utiliza Firebase Auth para la autenticación de usuarios (registro, inicio de sesión y cierre de sesión) y Firestore para el almacenamiento y recuperación de mensajes en tiempo real. Los usuarios pueden registrarse, iniciar sesión y enviarse mensajes al instante en un entorno seguro e interactivo.
 
-## Getting Started
+## Características principales:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Autenticación de usuarios con Firebase Auth (registro, inicio de sesión y cierre de sesión).
+- Mensajería en tiempo real utilizando Firestore.
+- Interfaz amigable para gestionar contactos y conversaciones de chat.
